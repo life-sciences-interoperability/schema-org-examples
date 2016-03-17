@@ -39,8 +39,8 @@
       "urn:miriam:hpo",
       "http://purl.obolibrary.org/obo/HP"
     ]
-  "edam": data_1087,
-  "edam": format_2331, 
+  "edam": "data_1087",
+  "edam": "format_2331", 
   },
   "idot:primaryLocation": 
   {
@@ -60,7 +60,7 @@
   ],
 
   "dcat:description": "The Human Phenotype Ontology (HPO) aims to provide a standardized vocabulary of phenotypic abnormalities encountered in human disease. Each term in the HPO describes a phenotypic abnormality, such as atrial septal defect. The HPO is currently being developed using the medical literature, Orphanet, DECIPHER, and OMIM.",
-  "edam": topic_0089,
-  "edam": topic_2815,
-  "edam": topic_0634
+  "edam": "topic_0089",
+  "edam": "topic_2815",
+  "edam": "topic_0634"
 }
