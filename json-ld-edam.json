@@ -46,7 +46,7 @@
   {
     "dcat:description": "Human Phenotype Ontology at Institute for Medical Genetics and Human Genetics",
     "schema:url": "http://human-phenotype-ontology.github.io/",
-    "vcard:orgName": "Institute for Medical Genetics and Human Genetics, CharitÈ-Universit‰tsmedizin, Berlin, Germany",
+    "vcard:orgName": "Institute for Medical Genetics and Human Genetics, Charit√©-Universit√§tsmedizin, Berlin, Germany",
     "idot:reliability": "0"
   },
   "idot:alternativeLocations": 
