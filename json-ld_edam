@@ -1,0 +1,66 @@
+{
+  "@context": 
+  {
+    "dcat": "http://www.w3.org/ns/dcat#",
+    "idot": "http://identifiers.org/terms#",
+    "foaf": "http://xmlns.com/foaf/0.1/",
+    "schema": "http://schema.org/",
+    "vcard": "http://www.w3.org/2001/vcard-rdf/3.0#",
+    "dcterms": "http://purl.org/dc/terms/",
+    "edam": "http://edamontology.org/"
+  },
+  "@type": "DataCollection",
+  "schema:creator": 
+  {
+    "@type": "schema:Person",
+    "schema:email": "someone@somewhere.com"
+  },
+  "schema:editor": 
+  {
+    "@type": "schema:Person",
+    "schema:email": "person@anywhere.com"
+  },
+  "dcat:issued": "2016-03-11T17:39:47+00:00",
+  "dcat:modified": "2016-03-11T17:53:35+00:00",
+  "idot:lastChecked": "2016-03-15T14:45:34+00:00",
+  "schema:url": "http://www.ebi.ac.uk/ols/beta/ontologies/hp",
+  "dcat:title": "Human Phenotype Ontology",
+  "dcterms:alternative": "HPO",
+  "dcat:identifier": "MIR:00000571",
+  "idot:identifierScheme": 
+  {
+    "idot:namespace": "hpo",
+    "dcterms:alternative": "HPO",
+    "schema:uri": "http://identifiers.org/hpo/",
+    "idot:example": "HP:0000118",
+    "idot:identifierPatterns": "^HP:\\d{7}$",
+    "idot:alternativeIdentifierSchemes": 
+    [
+      "urn:miriam:hpo",
+      "http://purl.obolibrary.org/obo/HP"
+    ]
+  "edam": data_1087,
+  "edam": format_2331, 
+  },
+  "idot:primaryLocation": 
+  {
+    "dcat:description": "Human Phenotype Ontology at Institute for Medical Genetics and Human Genetics",
+    "schema:url": "http://human-phenotype-ontology.github.io/",
+    "vcard:orgName": "Institute for Medical Genetics and Human Genetics, Charité-Universitätsmedizin, Berlin, Germany",
+    "idot:reliability": "0"
+  },
+  "idot:alternativeLocations": 
+  [
+    {
+      "dcat:description": "Human Phenotype Ontology through OLS",
+      "schema:url": "http://www.ebi.ac.uk/ols/beta/ontologies/hp",
+      "vcard:orgName": "European Bioinformatics Institute, Hinxton, Cambridge, UK",
+      "idot:reliability": "100"
+    }
+  ],
+
+  "dcat:description": "The Human Phenotype Ontology (HPO) aims to provide a standardized vocabulary of phenotypic abnormalities encountered in human disease. Each term in the HPO describes a phenotypic abnormality, such as atrial septal defect. The HPO is currently being developed using the medical literature, Orphanet, DECIPHER, and OMIM.",
+  "edam": topic_0089,
+  "edam": topic_2815,
+  "edam": topic_0634
+}
